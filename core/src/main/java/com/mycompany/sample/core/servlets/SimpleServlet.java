@@ -11,7 +11,11 @@
  *  distributed under the License is distributed on an "AS IS" BASIS,
  *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  *  See the License for the specific language governing permissions and
+<<<<<<< HEAD
  *  limitations under the License.change2
+=======
+ *  limitations under the License.change
+>>>>>>> 92a9dea437f3a8b415eb80a2608e5951f4bff966
  */
 package com.mycompany.sample.core.servlets;
 
